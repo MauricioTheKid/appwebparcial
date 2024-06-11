@@ -75,4 +75,3 @@ public class IndexController {
         return alumno;   
     }
 }  
-
